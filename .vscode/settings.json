@@ -1,0 +1,9 @@
+{
+    "accessibility.verbosity.terminal": true,
+    "terminal.integrated.customGlyphs": true,
+    "terminal.integrated.gpuAcceleration": "off",
+    "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorStyleInactive": "none",
+    "todo-tree.tree.scanMode": "workspace"
+}

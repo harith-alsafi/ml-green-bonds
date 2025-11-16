@@ -1,0 +1,18 @@
+class BondHolder:
+    BondIdNumber: int
+    BondType: str
+    HolderName: str
+    PortfolioName: str
+    ParentHolderId: float
+    HolderId: float
+    PortfolioNumber: float
+    Position: float
+    PositionChange: float
+    FillingDate: str
+    FillingSource: str
+    InsiderStatus: str
+    PercentOutstanding: float
+    PercentOfPortfolio: float
+    InstitutionType: str
+    MetroArea: str
+    Country: str
